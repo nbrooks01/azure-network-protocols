@@ -22,10 +22,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Create Azure Virtual Machines
-- Configure Network Security Groups
-- Install Wireshark on the Virtual Machines
-- Observe Traffic via Wireshark
+- Observe ICMP Traffic
+- Observe SSH Traffic
+- Observe DHCP Traffic
+- Observe DNS Traffic
+- Observe RDP Traffic
 
 <h2>Actions and Observations</h2>
 
